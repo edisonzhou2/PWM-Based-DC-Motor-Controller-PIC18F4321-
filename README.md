@@ -107,25 +107,4 @@ Each Timer0 interrupt:
 - Configure multiple interrupts (Timer0 + INT0)  
 - Apply structured embedded C programming for timing-critical tasks  
 
----
 
-## 🚀 Future Improvements
-
-- Add a speed feedback tachometer (closed-loop control)  
-- Include EEPROM storage for saved settings  
-- Add soft-start/soft-stop functionality  
-- Expand display output with current RPM estimation  
-
----
-
-### 👤 Author
-
-**Edison Zhou**  
-Electrical and Computer Engineering Student  
-California State Polytechnic University, Pomona (Cal Poly Pomona)
-
----
-
-### 🏷️ License
-
-This project is released under the **MIT License** — free for use, modification, and distribution.
